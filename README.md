@@ -20,7 +20,7 @@ This project is a mockup of the LinkedIn platform, implemented using HTML, CSS, 
 
 - **index.html:** The main HTML file containing the structure of the web pages.
 - **styles.css:** CSS file for styling and layout.
-- **script.js:** JavaScript file for handling interactive features.
+- **file.js:** JavaScript file for handling interactive features.
 
 ## How to Run
 
