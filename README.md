@@ -27,10 +27,6 @@ This project is a mockup of the LinkedIn platform, implemented using HTML, CSS, 
 1. Clone the repository: `git clone https://github.com/your-username/linkedin-mockup.git`
 2. Open `index.html` in your preferred web browser.
 
-## Demo
-
-For a live demonstration, visit [Linkedin clone project](https://echaftech23.github.io/Linkedin_project/).
-
 
 Feel free to explore the code and contribute to the project. Your feedback is welcome!
 
